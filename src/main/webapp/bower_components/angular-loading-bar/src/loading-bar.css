@@ -10,6 +10,7 @@
   transition: 350ms linear all;
 }
 
+
 #loading-bar.ng-enter,
 #loading-bar.ng-leave.ng-leave-active,
 #loading-bar-spinner.ng-enter,
