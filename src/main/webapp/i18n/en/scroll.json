@@ -1,0 +1,24 @@
+{
+    "pruebaScrollApp": {
+        "scroll" : {
+            "home": {
+                "title": "Scrolls",
+                "createLabel": "Create a new Scroll",
+                "createOrEditLabel": "Create or edit a Scroll",
+                "search": "Search for Scroll"
+            },
+            "created": "A new Scroll is created with identifier {{ param }}",
+            "updated": "A Scroll is updated with identifier {{ param }}",
+            "deleted": "A Scroll is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Scroll {{ id }}?"
+            },
+            "detail": {
+                "title": "Scroll"
+            },
+            "prueba": "Prueba",
+            "prueba2": "Prueba 2",
+            "prueba3": "Prueba 3"
+        }
+    }
+}

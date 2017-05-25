@@ -1,0 +1,26 @@
+{
+    "fluentMethods": true,
+    "relationships": [],
+    "fields": [
+        {
+            "fieldName": "prueba",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        },
+        {
+            "fieldName": "prueba2",
+            "fieldType": "Integer"
+        },
+        {
+            "fieldName": "prueba3",
+            "fieldType": "String"
+        }
+    ],
+    "changelogDate": "20170525142546",
+    "dto": "no",
+    "service": "serviceImpl",
+    "entityTableName": "scroll",
+    "pagination": "infinite-scroll"
+}
